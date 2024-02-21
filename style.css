@@ -38,6 +38,11 @@
     text-align: center;
 }
 
+.player-btn img {
+    height: 100px;
+    width: 100%;
+}
+
 .cart-container{
     width: 37%;
     /* border: 1px solid gray; */
